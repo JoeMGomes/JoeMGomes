@@ -1,5 +1,5 @@
 ## Hi there, I'm Joe 👋
-I'm a Portuguese Student 🇵🇹 currently on my way to become a Master in Informatics and Computing Engineering 💾 at the Faculty of Engineering of the University of Porto
+I'm a Portuguese Student 🇵🇹 currently on my way to become a Master in Informatics and Computing Engineering 💾 at the Faculty of Engineering of the University of Porto (FEUP).
 
 
 ### A few stats... 📈
