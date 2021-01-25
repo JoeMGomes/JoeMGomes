@@ -1,8 +1,8 @@
 ## Hi there, I'm Joe 👋
 I'm a Portuguese Student 🇵🇹 currently on my way to become a Master in Informatics and Computing Engineering 💾 at the Faculty of Engineering of the University of Porto (FEUP).
 
-Most of my repositories are faculty related projects but there are a couple of weekend projects in there like:  
- - [Tone Generator](https://github.com/JoeMGomes/tone_generator) - Small Rust application that writes Pulse Code Modulation ( PCM ) audio from json files.
+Most of my repositories are faculty related projects (ending with '-FEUP') but there are a couple of weekend projects in there like:  
+ - [Tone Generator](https://github.com/JoeMGomes/tone_generator) - A small Rust application that writes Pulse Code Modulation ( PCM ) audio files from json files.
  - [GenunPro](https://github.com/JoeMGomes/GenunPro) - Procedurally generated universe based on [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) video  ["Procedural Generation: Programming The Universe"](https://www.youtube.com/watch?v=ZZY9YE7rZJw&t=592s) 
 
 
