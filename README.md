@@ -5,7 +5,11 @@ Most of my repositories are faculty related projects (ending with '-FEUP') but t
  - [Tone Generator](https://github.com/JoeMGomes/tone_generator) - A small Rust application that writes Pulse Code Modulation ( PCM ) audio files from json files.
  - [GenunPro](https://github.com/JoeMGomes/GenunPro) - Procedurally generated universe based on [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) video  ["Procedural Generation: Programming The Universe"](https://www.youtube.com/watch?v=ZZY9YE7rZJw&t=592s) 
 
+My favourite faculty projects:
+ - [LCOM-FEUP](https://github.com/JoeMGomes/LCOM-FEUP) - A very low level game made for MINIX operating system. Mouse/Keyboard, graphics and networking drivers were all implemented by a team of two.
+ - [ACG-FILS](https://github.com/JoeMGomes/ACG-FILS) - A 3D Graphics Engine with Bounding Box collisions implemented.
 
+ - [FEUP-DJCO-Final-Project](https://github.com/JoeMGomes/FEUP-DJCO-Final-Project) - A 3D Puzzle-Horror Game where I worked as a Game Developer, Designer and Story Writer in a team of 4 developers and three designers.
 <!--
 **JoeMGomes/JoeMGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
