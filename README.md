@@ -9,7 +9,7 @@ My favourite faculty projects:
  - [LCOM-FEUP](https://github.com/JoeMGomes/LCOM-FEUP) - A very low level game made for MINIX operating system. Mouse/Keyboard, graphics and networking drivers were all implemented by a team of two.
  - [ACG-FILS](https://github.com/JoeMGomes/ACG-FILS) - A 3D Graphics Engine with Bounding Box collisions implemented.
 
- - [FEUP-DJCO-Final-Project](https://github.com/JoeMGomes/FEUP-DJCO-Final-Project) - A 3D Puzzle-Horror Game where I worked as a Game Developer, Designer and Story Writer in a team of 4 developers and three designers.
+ - [DJCO-Final-Project-FEUP](https://github.com/JoeMGomes/DJCO-Final-Project-FEUP) - A 3D Puzzle-Horror Game where I worked as a Game Developer, Designer and Story Writer in a team of 4 developers and three designers.
 <!--
 **JoeMGomes/JoeMGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
