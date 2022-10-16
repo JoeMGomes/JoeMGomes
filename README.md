@@ -1,5 +1,5 @@
 ## Hi there, I'm Joe 👋🇵🇹
-I recently finisehd my Masters in Informatics and Computing Engineering 💾 at the Faculty of Engineering of the University of Porto (FEUP).
+I recently finished my Masters in Informatics and Computing Engineering 💾 at the Faculty of Engineering of the University of Porto (FEUP).
 
 Most of my repositories are faculty related projects (ending with '-FEUP' or '-FILS' for my Erasmus projects done in Universitatea Politehnică din București 🇷🇴) but there are a couple of weekend projects in there like:  
  - [Tone Generator](https://github.com/JoeMGomes/tone_generator) - A small Rust application that writes Pulse Code Modulation ( PCM ) audio files from json files.
